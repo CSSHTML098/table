@@ -1,0 +1,21 @@
+.name{
+    border-color: brown;
+}
+ table{
+     width: 100px;
+ height: 400px;
+    }
+ .header {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,15,15,1) 32%, rgba(0,212,255,1) 100%);
+ }
+.noob{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(227,204,24,0.45702030812324934) 34%, rgba(0,212,255,1) 100%);
+}
+.mmm{
+    background: orangered;
+}
+.red{
+    background: peachpuff;
+}
